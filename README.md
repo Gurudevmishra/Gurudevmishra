@@ -45,6 +45,7 @@ I enjoy transforming raw data into meaningful business insights through data cle
 
 
 
+
 ## 📊 Data Analytics Portfolio
 
 | Project | Technology | Key Highlights | Status |
@@ -52,6 +53,7 @@ I enjoy transforming raw data into meaningful business insights through data cle
 | [🛒 BlinkIT Grocery Sales Analysis](https://github.com/Gurudevmishra/BlinkIT-Sales-Analysis-Excel) | Excel | Data Cleaning, KPIs, PivotTables, Interactive Dashboard | ✅ Completed |
 | [🏦 Banking Analytics Dashboard](https://github.com/Gurudevmishra/Banking-Analytics-PowerBI) | Power BI | Data Modeling, DAX Measures, Interactive Visualizations | ✅ Completed |
 | [🎮 Video Game Sales Analysis](https://github.com/Gurudevmishra/Video-Game-Sales-Analysis-Tableau) | Tableau | Sales Trends, Genre Analysis, Interactive Dashboard | ✅ Completed |
+| [🏅 Olympics Data Analysis](https://github.com/Gurudevmishra/Olympics-Data-Analysis-Python) | Python | Pandas, EDA, Data Cleaning, Visualizations, Sports Analytics | ✅ Completed |
 | 🛍️ Amazon Sales Analysis | SQL | Data Cleaning, Validation, SQL Queries | ✅ Completed |
 
 
